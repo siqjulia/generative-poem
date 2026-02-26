@@ -1,0 +1,20 @@
+
+/* <![CDATA[ */
+body {
+    background-image: url(assets/img/bread-background.png);
+    color: white;
+    margin: 0 24pt 0 24pt;
+    font-family: Optima, sans-serif;
+    font-size: 13pt;
+    display: flex; 
+    justify-content: center;
+   }
+   div {
+    height: 16pt;
+   }
+   a {
+    color: #217; 
+    text-decoration: none;
+   }
+  
+   /* ]]> */
