@@ -4,8 +4,8 @@ body {
     background-image: url(assets/img/bread-background.png);
     color: white;
     margin: 0 24pt 0 24pt;
-    font-family: Optima, sans-serif;
-    font-size: 13pt;
+    font-family: PT Serif, serif;
+    font-size: 15pt;
     display: flex; 
     justify-content: center;
    }
